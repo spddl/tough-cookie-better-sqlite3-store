@@ -1,0 +1,30 @@
+{
+  "name": "tough-cookie-better-sqlite3-store",
+  "description": "Another store for tough-cookie module",
+  "version": "0.0.1",
+  "author": "spddl",
+  "homepage": "https://github.com/spddl/tough-cookie-better-sqlite3-store",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spddl/tough-cookie-better-sqlite3-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spddl/tough-cookie-better-sqlite3-store/issues"
+  },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "cookiejar",
+    "sqlite",
+    "store"
+  ],
+  "dependencies": {
+    "better-sqlite3": "^5.2.1",
+    "tough-cookie": "^2.5.0"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT"
+}
